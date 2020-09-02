@@ -4,7 +4,7 @@ Breakout! is a simple game where the user moves their left/right arrow keys to b
 
 ## Live Demo
 
-Live version hosted [here]()
+Live version hosted [here](https://frederick-chon.github.io/Breakout-/)
 
 ## Built Using
 
